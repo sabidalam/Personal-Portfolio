@@ -65,7 +65,7 @@ p {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .middle-section {
@@ -73,4 +73,30 @@ h2 {
     background-repeat: no-repeat;
     background-position: right;
     margin-top: 50px;
+}
+
+.experience {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+}
+
+#full-stack {
+    border-left: 7px solid orange;
+}
+
+#Baby-web {
+    border-left: 7px solid blue;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
 }
